@@ -1,5 +1,7 @@
 # Recursive-CTE-SQL-Server-
-Queries to work with hierarchical recursive data
+
+Description of the solution:
+https://www.youtube.com/watch?v=8xvpUWUMZxk&feature=youtu.be
 
 Common Table Expression helps to solve recursive problems in SQL as it allows self-refencing.
 
